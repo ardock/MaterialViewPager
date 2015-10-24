@@ -14,7 +14,7 @@ android:
     - extra-android-m2repository
 
 notifications:
-  email: true
+  email: false
 
 # Turn off caching to avoid any caching problems
 cache: false
